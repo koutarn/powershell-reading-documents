@@ -17,3 +17,7 @@ Date: 2021-08-01
         * -gt -ltあたりは迷いそう。
             * {left} -gt {right}としたら{left}に対して比較がかかっていると覚える。
                 * 10 -gt {right} なら10のほうが{right}より大きければと解釈する。
+* [第6章](https://docs.microsoft.com/ja-jp/powershell/scripting/learn/ps101/06-flow-control?view=powershell-7.1)
+    * scriptの基本構文について学んだ。
+        * 演習問題についてscriptファイルを作成した。
+        * 結構、基本的な構文はC言語とさして変らない。
